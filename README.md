@@ -13,6 +13,9 @@ git clone https://github.com/twrpdtgen/twrpdtgen.git
 克隆。
 ## 使用此DT构建
 ```sh
+mv ./unknown ./device
+```
+```sh
 source build/envsetup.sh
 ```
 ```sh

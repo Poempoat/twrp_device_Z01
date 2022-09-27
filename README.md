@@ -8,7 +8,7 @@ A TWRP device tree for Gionee Z01.
 apt install git
 ```
 ```sh
-git clone https://github.com/twrpdtgen/twrpdtgen.git
+git clone https://github.com/Poempoat/twrp_device_Z01.git
 ```
 克隆。
 ## 使用此DT构建
